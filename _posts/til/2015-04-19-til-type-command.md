@@ -2,7 +2,7 @@
 layout: post
 title:  "TIL#1 - type, Windows alternative to cat"
 date:   2015-04-19 15:00:08
-categories: DOS TIL
+categories: TIL
 ---
 While working on a database job recently I learned that the *type* command can be used to output the contents of a file. This is similar to the *cat* command in UNIX.
 

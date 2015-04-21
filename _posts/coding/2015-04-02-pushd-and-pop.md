@@ -2,7 +2,7 @@
 layout: post
 title:  "pushd and popd"
 date:   2015-04-02 21:59:08
-categories: DOS BAT
+categories: DOS
 ---
 While going through a colleague's C# code yesterday I came across something interesting - pushd and popd.
 
