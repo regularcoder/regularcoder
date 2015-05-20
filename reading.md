@@ -14,4 +14,5 @@ Kenzaburo Oe, The Art of Fiction No. 195
 
 1. Psmith in the City by P. G. Wodehouse (3/5)
 2. The Allow of Law: A Mistborn Novel by Brandon Sanderson (4.5/5)
-2. The Power and the Glory by Graham Greene (4/5)
+3. The Power and the Glory by Graham Greene (4/5)
+4. Singularity Sky by Charles Stross (3/5)
