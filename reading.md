@@ -29,3 +29,4 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 > This book consists of four short stories and two essays. Although the short stories were easy to read I would be hard-pressed to explain what any of them really *mean*. Among the stories, I liked *Police Rat* best. It tells the story of Jose a.k.a Pepe the Cop, a rat who serves on the police force of an underground colony of rats and investigates a suspicious series of murders.
 >
 > The two essays are completely opposite to the short stories in terms of readability. They were dense, complex and I got very little out of them. 
+8. The Giver by Lois Lowry (4/5)
