@@ -30,3 +30,8 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 >
 > The two essays are completely opposite to the short stories in terms of readability. They were dense, complex and I got very little out of them. 
 8. The Giver by Lois Lowry (4/5)
+9. Ender's Shadow by Orson Scott Card (3/5)
+10. Ōoku: The Inner Chambers, Vol. 1 by Fumi Yoshinaga (4/5)
+> I was lucky enough to get a mint condition copy of this manga from the public library. It is based in an alternate world where a mysterious disease kills most young men (and only men). The resulting imbalance in the gender ratio has resulted in society turning matriarchal with women filling most roles that men usually held. The Shogun is a woman and her harem, called the Ōoku, is filled with men instead of women.
+>
+> It is in this Ōoku that most of the story takes place. The Ōoku has an elaborate series of ranks and duties with many traditions, customs and rules. This is to be expected because of its insulation from the outside world - men once admitted to the Ōoku can never leave and are forbidden from speaking to outsiders about what goes on inside.
