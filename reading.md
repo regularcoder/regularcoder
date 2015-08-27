@@ -39,4 +39,4 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 12. The Happiness Advantage by Shawn Achor (4/5)
 > I came across Shawn Achor's ideas via his TED talk - [the happy secret to better work](http://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work?language=en). This book expands on the same idea - that happiness leads to success and not the other way around.
 > Maybe it is because of where I am in my professional life right now but this book really spoke to me. I told a lot of people about it and plan to put its ideas and principles into practice in my life.
-13. We Have Always Lived in the Castle (3.5/5)
+13. We Have Always Lived in the Castle by Shirley Jackson (3.5/5)
