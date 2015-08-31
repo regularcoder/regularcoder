@@ -19,9 +19,9 @@ Whenever IIS sees an incoming request it goes through all the bindings to figure
 
 ## Interesting notes
 
-* You can set up any number of bindings to point to a single website. This means that you can make the same website available over multiple ports: ![Multiple ports]({{ site.url }}/img/iis_bindings/multiport.png)
-So, for me, localhost and localhost:9080 both lead to this: ![Multiple ports]({{ site.url }}/img/iis_bindings/iis7welcome.png)
+* 	You can set up any number of bindings to point to a single website. This means that you can make the same website available over multiple ports: ![Multiple ports]({{ site.url }}/img/iis_bindings/multiport.png)
+	So, for me, localhost and localhost:9080 both lead to this: ![Multiple ports]({{ site.url }}/img/iis_bindings/iis7welcome.png)
 
-* If no hostname is specified then all hostnames lead to the same website. That means if you have DNS setup with wildcards then you can do something like: http://worst.site.ever.domain.tld where domain.tld is your domain name.
-
-Clearly its a very good idea to specify the host name for production websites.
+* 	If no hostname is specified then all hostnames lead to the same website. That means if you have DNS setup with wildcards then you can do something like: http://worst.site.ever.domain.tld where domain.tld is your domain name.
+	
+	Clearly its a very good idea to specify the host name for production websites.
