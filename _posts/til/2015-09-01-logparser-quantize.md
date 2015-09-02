@@ -15,6 +15,7 @@ Time has been rounded to the nearest minute (60 seconds). Note that here *time* 
 Another illustrative example with *QUANTIZE(time, 600)* rounds up to every 10 minutes:
 
 ![600 seconds]({{ site.url }}/img/logparser_quantize/600.png)
+Here we can see that rounding takes place **downward** so 1:37:08 becomes 1:30:00 instead of 1:40:00.
 
 *QUANTIZE(time, 3600)* rounds up to every hour:
 
