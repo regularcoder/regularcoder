@@ -15,7 +15,7 @@ Hit options:
 ![Login screen]({{ site.url }}/img/error_4064/login_screen.png)
 
 Go to Connection Properties tab and put a database name that exists:
-![Connection properties]({{ site.url }}/img/error_4064/login_screen.png)
+![Connection properties]({{ site.url }}/img/error_4064/connection_properties.png)
 
 And then hit Connect.
 
