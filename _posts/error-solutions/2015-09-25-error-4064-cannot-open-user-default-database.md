@@ -25,14 +25,15 @@ exec sp_defaultdb @loginame=’<login>’, @defdb=’<database that exists>’
 {% endhighlight %}
 
 ## Miscellaneous notes
-*	Default database can be determined by looking at the output of this query (default_database_name column):
+*	Default database can be determined by looking at the output of this query (default\_database\_name column):
 
+	Depending on your permissions you might be able to only see information for the groups or roles you belong to.
+	
 	{% highlight sql %}
 	select * from sys.server_principals
 	{% endhighlight %}
 	
-	Depending on your permissions you might be able to only see information for the groups or roles you belong to.
-	
 * 	SQL Server won’t let you use sp_defaultdb to set a default database which doesn’t exist. It will throw an error:
-	Msg 15010, Level 16, State 1, Line 1
-	The database '<nonexistent db name>' does not exist. Supply a valid database name. To see available databases, use sys.databases. 
+
+> Msg 15010, Level 16, State 1, Line 1
+> The database 'nonexistent\_db\_name' does not exist. Supply a valid database name. To see available databases, use sys.databases. 
