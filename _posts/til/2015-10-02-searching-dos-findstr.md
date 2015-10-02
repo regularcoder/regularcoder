@@ -11,11 +11,11 @@ Usage examples follow.
 
 Search all files in current directory for the word RELIABLE
 
-> findstr “RELIABLE” *.*
+> findstr “RELIABLE” \*.\*
 
 Search all txt files in current directory and subdirectories (that’s what the S switch is for) for the number 9007
 
-> findstr /S “9007″ *.txt
+> findstr /S “9007″ \*.txt
 
 findstr will not show you the full path of file results. It only shows paths relative to the search directory:
 
@@ -23,7 +23,7 @@ findstr will not show you the full path of file results. It only shows paths rel
 
 A way around this is to include %CD% in the latter part of the command, like so:
 
-> findstr “text-align” “%CD%\\*.*”
+> findstr “text-align” “%CD%\\\*.\*”
 
 ![Full file path]({{ site.url }}/img/findstr/full_file_path.png)
 
