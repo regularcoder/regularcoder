@@ -13,6 +13,7 @@ There are times when you might need to run a process inside the App-V bubble. Fo
 2. 	Type these commands:
 	
 	$AppVName = Get-AppvClientPackage *\*APPNAME\**
+	
 	Start-AppvVirtualProcess -AppvClientObject $AppVName *C:\Windows\SysWow64\odbcad32.exe*
 
 	Replace *APPNAME* with a keyword from your application’s name.
