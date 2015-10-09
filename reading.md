@@ -48,3 +48,4 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 > Or: *He was the handsomest of his kind, with fine, dark eyes and a pelt the colour of wet slate. He looked up into the tree and addressed the gentleman in a language that sounded like the chatter of water of stones and the sighing of wind amonst bare branches and the crackle of fire consuming dead leaves.*
 > 
 > That sentence is poetic enough to remind of one of Mary Oliver's beautiful fox poems.
+16. The Pillars of Hercules by Paul Theroux (3.5/5)
