@@ -49,3 +49,7 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 > 
 > That sentence is poetic enough to remind of one of Mary Oliver's beautiful fox poems.
 16. The Pillars of Hercules by Paul Theroux (3.5/5)
+17. Waiting for Snow in Havana by Carlos Eire (4/5)
+> This was an entertaining portrayal of childhood in Havana - during Batista's regime as well as a few years of Fidel Castro's.
+>
+> Carlos overuses lizards as a symbol throughout the book - they are mentioned hundreds of times throughout the approximately 400 pages of this book and even the cover has a lizard on it. Honestly, it got to be a bit tiresome after a while.
