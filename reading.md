@@ -53,3 +53,5 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 > This was an entertaining portrayal of childhood in Havana - during Batista's regime as well as a few years of Fidel Castro's.
 >
 > Carlos overuses lizards as a symbol throughout the book - they are mentioned hundreds of times throughout the approximately 400 pages of this book and even the cover has a lizard on it. Honestly, it got to be a bit tiresome after a while.
+18. The Quants by Scott Patterson (4/5)
+> An exciting account of the 2008 Wall Street crash and the extremely smart quantitative traders whose models contributed to it. While it is partly an attack on the greedy, myopic traders who "believed their models were perfect reflections of how the market works" it also pays homage to their intelligence and their ability to create wealth (even if a lot of it vanished in the crash).
