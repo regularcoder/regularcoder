@@ -56,3 +56,4 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 18. The Quants by Scott Patterson (4/5)
 > An exciting account of the 2008 Wall Street crash and the extremely smart quantitative traders whose models contributed to it. While it is partly an attack on the greedy, myopic traders who "believed their models were perfect reflections of how the market works" it also pays homage to their intelligence and their ability to create wealth (even if a lot of it vanished in the crash).
 19. The Lathe of Heaven by Ursula K. Le Guin (4/5)
+20. Hiroshima by John Hersey (3/5)
