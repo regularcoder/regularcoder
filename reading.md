@@ -57,3 +57,5 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 > An exciting account of the 2008 Wall Street crash and the extremely smart quantitative traders whose models contributed to it. While it is partly an attack on the greedy, myopic traders who "believed their models were perfect reflections of how the market works" it also pays homage to their intelligence and their ability to create wealth (even if a lot of it vanished in the crash).
 19. The Lathe of Heaven by Ursula K. Le Guin (4/5)
 20. Hiroshima by John Hersey (3/5)
+21. Once Upon a Time in Russia by Ben Mezrich (3/5)
+> This is a fast-paced light read about the Russian Oligarch Boris Berezovsky. It is light on details and Mezrich often includes dramatic situations that are at best tangential to his plot to spice up the story - for ex, he includes a few pages on the Kursk submarine disaster.
