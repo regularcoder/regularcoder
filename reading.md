@@ -59,3 +59,4 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 20. Hiroshima by John Hersey (3/5)
 21. Once Upon a Time in Russia by Ben Mezrich (3/5)
 > This is a fast-paced light read about the Russian Oligarch Boris Berezovsky. It is light on details and Mezrich often includes dramatic situations that are at best tangential to his plot to spice up the story - for ex, he includes a few pages on the Kursk submarine disaster.
+22. The Pillars of the Earth by Ken Follet (4.5/5)
