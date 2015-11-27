@@ -6,16 +6,16 @@ categories: TIL, SQLServer
 ---
 
 I was familiar with the feature in SQL Server Management Studio that let me easily modify a table without writing UPDATE queries:
-({{ site.url }}/img/sqleditrows/edit200.png)
+![Right click on table]({{ site.url }}/img/sqleditrows/edit200.png)
 
 What I recently learned is that you don't have to be restricted to the top 200 rows. You can change the SELECT query running in the background to filter whatever rows you need to update by changing the SQL.
 
 This is how:
 After you choose 'Edit Top … Rows' right click on the editor and then Pane -> SQL:
-({{ site.url }}/img/sqleditrows/panesql.png)
+![Pane -> SQL]({{ site.url }}/img/sqleditrows/panesql.png)
 
 You will now see some SQL that you can change like I did below (after you change the SQL you have to go the results tab and then right click -> Execute SQL again):
-({{ site.url }}/img/sqleditrows/modifiedSQL.png)
+![Modified output]({{ site.url }}/img/sqleditrows/modifiedSQL.png)
 
 ## Interesting notes
 
