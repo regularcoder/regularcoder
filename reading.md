@@ -60,3 +60,7 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 21. Once Upon a Time in Russia by Ben Mezrich (3/5)
 > This is a fast-paced light read about the Russian Oligarch Boris Berezovsky. It is light on details and Mezrich often includes dramatic situations that are at best tangential to his plot to spice up the story - for ex, he includes a few pages on the Kursk submarine disaster.
 22. The Pillars of the Earth by Ken Follet (4.5/5)
+23. 1st To Die by James Patterson (2.5/5)
+> The thriller genre ceased to thrill or excite me years ago and I hadn't read one in quite a while. I picked up Patterson's book because I heard of his online [writing masterclass](https://www.masterclass.com/classes/james-patterson-teaches-writing). I'd also read about his signature style of having many short chapters and was interested to see how it worked.
+>
+> This book has some ridiculous plot twists (and further twists to those twists) and the interactions between the women of the murder club were unbeleivable and sounded forced. *However* it was light reading and managed to hold my interest to the end.
