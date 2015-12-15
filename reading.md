@@ -64,3 +64,5 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 > The thriller genre ceased to thrill or excite me years ago and I hadn't read one in quite a while. I picked up Patterson's book because I heard of his online [writing masterclass](https://www.masterclass.com/classes/james-patterson-teaches-writing). I'd also read about his signature style of having many short chapters and was interested to see how it worked.
 >
 > This book has some ridiculous plot twists (even on the last few pages) and the interactions between the women of the murder club sounded forced and were sometimes faintly ridiculous. *However* it was light reading and managed to hold my interest to the end.
+24. Death Benefit by Robin Cook (4/5)
+> An entertaining and exciting book about creating human organs in a laboratory. I plan to read more of Robin Cook's thrillers in the future.
