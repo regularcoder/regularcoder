@@ -17,3 +17,6 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 
 2. Faerie Tale by Raymond Feist (2.5/5) on [01-16-2016]
 > The sexual imagery in the book was often disturbing and some of the characters were unrealistic - Gabbie for instance is a stunningly beautiful millionaire heiress who has a good head on her shoulders.
+
+3. A Moveable Feast by Ernest Hemingway (4.5/5) on [01-18-2016]
+> This is a light and enjoyable memoir of Hemingway's time in Paris. Mixed in with a glimpse into his writing life are vignettes of his friends and acquaintences. What a group they were - James Joyce, F. Scott Fitzgerald, Pablo Picasso..
