@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:               regularcoder
-tagline:             'In pursuit of mastery'
-description:         'A personal blog on programming'
+tagline:             'A rising tide lifts all boats'
+description:         'A personal blog on things that interest me'
 url:                 http://regularcoder.github.io
 baseurl:             /
 paginate:            5
