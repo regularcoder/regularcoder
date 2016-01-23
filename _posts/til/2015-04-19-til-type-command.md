@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TIL#1 - type, Windows alternative to cat"
+title:  "TIL#1: type, Windows alternative to cat"
 date:   2015-04-19 15:00:08
 categories: TIL
 ---

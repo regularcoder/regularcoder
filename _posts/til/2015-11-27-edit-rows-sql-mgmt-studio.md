@@ -2,7 +2,7 @@
 layout: post
 title:  "TIL#10: Edit rows in SQL Server Management Studio"
 date:   2015-11-27 15:00:00
-categories: TIL, SQLServer
+categories: TIL SQLServer
 ---
 
 I was familiar with the feature in SQL Server Management Studio that let me easily modify a table without writing UPDATE queries:

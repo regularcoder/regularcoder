@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TIL#5 - LogParser's QUANTIZE function"
+title:  "TIL#5: LogParser's QUANTIZE function"
 date:   2015-09-01 21:20:00
 categories: TIL
 ---

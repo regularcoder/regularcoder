@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TIL#3 - IIS logs have GMT timestamps"
+title:  "TIL#3: IIS logs have GMT timestamps"
 date:   2015-08-28 19:45:08
 categories: TIL
 ---

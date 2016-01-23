@@ -2,7 +2,7 @@
 layout: post
 title:  "TIL#9: Destructuring assignment in F#"
 date:   2015-10-23 15:00:00
-categories: TIL, F#
+categories: TIL F#
 ---
 
 In F# you can use [fst](https://msdn.microsoft.com/en-us/library/ee370480.aspx) or [snd](https://msdn.microsoft.com/en-us/library/ee340353.aspx) to extract the first or second element respectively from a tuple. However if your tuple has more than two elements you won't be able to use those operators.

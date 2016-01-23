@@ -428,3 +428,15 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/**
+ * Tags and Categories Style - copied from Freshman 21 Theme
+ */
+.tags-box li {
+  list-style: none;
+  font-weight: bold;
+  margin-top: 10px; }
+.tags-box .size {
+  font-size: 0.7em;
+  font-weight: bold;
+  vertical-align: super; }

@@ -90,6 +90,7 @@ Sample output:
         
         docker search redis
 ![Subfolders]({{ site.url }}/img/handson_docker/redis_dockerhub.png)
+Docker Hub is a list
 
 8. Download Redis image by calling:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TIL#4 - IIS bindings"
+title:  "TIL#4: IIS bindings"
 date:   2015-08-31 19:45:08
 categories: TIL
 ---

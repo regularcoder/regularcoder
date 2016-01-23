@@ -2,7 +2,7 @@
 layout: post
 title:  "TIL#8: Searching in DOS using findstr"
 date:   2015-10-02 15:00:00
-categories: TIL, DOS
+categories: TIL DOS
 ---
 
 While searching for an alternative to the Windows 7 search box that I could download and use for reliable searching I came across the “findstr” command.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Error 4064: Cannot open user default database"
 date:   2015-09-25 16:00:00
-categories: Error solutions
+categories: error-solutions
 ---
 
 A user complained of this error when attempting to connect to SQL Server from SQL Server Management Studio:

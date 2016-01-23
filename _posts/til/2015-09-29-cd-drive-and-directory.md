@@ -2,7 +2,7 @@
 layout: post
 title:  "TIL#7: Change drive and directory at same time"
 date:   2015-09-29 15:00:00
-categories: TIL, DOS
+categories: TIL DOS
 ---
 
 DOS's CD (Change Directory) command will not usually switch drives. For example this is what happens if you do a CD across drives (C to D, in this case):
