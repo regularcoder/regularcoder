@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               regularcoder
+tagline:             'In pursuit of mastery'
+description:         'A personal blog on programming'
+url:                 http://regularcoder.github.io
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              regularcoder
+  url:               http://regularcoder.github.io
+  email:             regularcoder@gmail.com
+
+# Custom vars
+version:             1.0.0
