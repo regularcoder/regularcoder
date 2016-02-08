@@ -23,3 +23,6 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 
 4. Claudius the God: And His Wife Messalina  by Robert Graves (2.5/5) on [01-31-2016]
 > I didn't enjoy this as much as *I, Claudius*
+
+5. The Ocean at the End of the Lane by Neil Gaiman (4/5) on [02-05-2016]
+> The mysterious and timeless Hempstock women were intriguing characters. I liked this way more than Neil Gaiman's *Anansi Boys* which I read a few years ago.
