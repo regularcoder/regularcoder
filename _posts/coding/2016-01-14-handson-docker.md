@@ -9,6 +9,8 @@ Last weekend I visisted Google's offices in Cambridge, MA for a Meetup on Docker
 
 Here are my notes from the hands on the Docker session that was led by Jonas Rosland, a developer advocate from EMC:
 
+<!--more-->
+
 ## Containers
 We walked through this [presentation](http://www.slideshare.net/jonasrosland/docker-and-containers-overview-docker-workshop) that explains some of the motivations for Docker.
 

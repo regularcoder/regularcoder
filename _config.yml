@@ -1,6 +1,6 @@
 # Dependencies
 markdown:            redcarpet
-highlighter:         pygments
+highlighter:         rouge
 
 # Permalinks
 #
@@ -15,7 +15,7 @@ description:         'A rising tide lifts all boats'
 url:                 http://regularcoder.github.io
 baseurl:             /
 paginate:            5
-
+excerpt_separator:   <!--more-->
 # About/contact
 author:
   name:              regularcoder

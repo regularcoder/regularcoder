@@ -10,7 +10,10 @@ I was familiar with the feature in SQL Server Management Studio that let me easi
 
 What I recently learned is that you don't have to be restricted to the top 200 rows. You can change the SELECT query running in the background to filter whatever rows you need to update by changing the SQL.
 
+<!--more-->
+
 This is how:
+
 After you choose 'Edit Top … Rows' right click on the editor and then Pane -> SQL:
 ![Pane -> SQL]({{ site.url }}/img/sqleditrows/panesql.png)
 
