@@ -11,7 +11,7 @@ relative_permalinks: false
 # Setup
 title:               regularcoder
 tagline:             'A rising tide lifts all boats'
-description:         'A personal blog on things that interest me'
+description:         'A rising tide lifts all boats'
 url:                 http://regularcoder.github.io
 baseurl:             /
 paginate:            5
