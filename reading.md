@@ -26,3 +26,10 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 
 5. The Ocean at the End of the Lane by Neil Gaiman (4/5) on [02-05-2016]
 > The mysterious and timeless Hempstock women were fascinating characters. I liked this way more than Neil Gaiman's *Anansi Boys* which I read a few years ago.
+
+6. A Country Doctor's Notebook by Mikhail Bulgakov (4.5/5) on [03-26-2016]
+> These are a series of stories about Bulgakov's time in a remote rural hospital. He had just graduated from medical college and was sent off to run a clinic without any other doctors to support or guide him.
+> 
+> Being so fresh out of university he was petrified of encountering a case he had no idea how to handle. However, when a young girl who suffered a horrific accident that crushed her legs is brought to him he manages to amputate her leg and save her life. After that he became famous and often saw about a hundred patients a day!
+>
+> One line that I particularly like is at the end of a chapter where Bulgakov manages to perform a tricky childbirth successfully: *'One can gain a lot of experience in a country practice', I thought as I fell asleep, 'but even so one must go on and on reading, reading...more and more..'*
