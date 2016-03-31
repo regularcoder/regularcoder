@@ -3,6 +3,7 @@ layout: post
 title:  "Recovering from a failed DB2 load"
 date:   2016-03-28 15:00:00
 categories: DB2
+comments: true
 ---
 
 If you are loading a DB2 table using Informatica in bulk mode then a failure will result in the table going into check pending state. You will not be able to resume load or even query the table.
