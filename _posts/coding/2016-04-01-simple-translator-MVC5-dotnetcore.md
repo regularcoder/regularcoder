@@ -15,6 +15,7 @@ Here is a preview of what the final product looks like:
 As much as I love Visual Studio I feel drawn towards lightweight alternatives since installing VS comes with a lot of extraneous stuff.
 
 ##Install .NET Core from command line
+
 ###Install DNVM
 DNVM is the .NET Version Manager - a command line tool that allows you to manage different .NET runtimes. Following the instructions [here](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html#install-asp-net-5-from-the-command-line) on Microsoft's ASP.net website run this command to install DNVM:
 
@@ -49,6 +50,7 @@ DNX (.NET Execution environment) - You will use this primarily to build and run 
 Try typing *dnx* and *dnu*, they should both return output explaining their usage.
 
 ##Create an ASP.NET Core project
+
 ###Install Yeoman for scaffolding
 Since we do not have Visual Studio to create project files and directory structure for us we need to use a 'scaffolding' tool called [Yeoman](http://yeoman.io/) to kickstart our new project.
 
@@ -61,7 +63,7 @@ To verify installation, launch a command prompt and type *npm*. Install Yeoman a
 This will run for a while since there are a **lot** of dependencies. If all goes well you will see something like this showing the entire tree of package dependencies:
 ![Subfolders]({{ site.url }}/img/simpletranslator/yo_install_success.png)
 
-###Set up an ASP.NET website using Yeoman
+### Set up an ASP.NET website using Yeoman
 Yeoman is run by using the *yo* command. The argument you pass into *yo* is a generator. There are numerous [generators](http://yeoman.io/generators/) available for Angular, React, etc. We installed only the ASP.net generator when we ran *npm install* above. So, to create a basic ASP.NET web application run: 
 
         yo aspnet
