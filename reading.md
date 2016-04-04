@@ -34,3 +34,8 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 > Being so fresh out of university he was petrified of encountering a case he had no idea how to handle. However, when a young girl who suffered a horrific accident that crushed her legs is brought to him he manages to amputate her leg and save her life. After that he became famous and often saw about a hundred patients a day!
 >
 > One line that I particularly like is at the end of a chapter where Bulgakov manages to perform a tricky childbirth successfully: *'One can gain a lot of experience in a country practice', I thought as I fell asleep, 'but even so one must go on and on reading, reading...more and more..'*
+
+7. Words of Radiance (The Stormlight Archive, Book 2) by Brandon Sanderson (4/5) on [04-01-2016]
+> This book has an excruciatingly slow first portion where nothing much happens. Just like the first book in this series, however, it gradually built up to a very exciting second-half.
+>
+> I hope Sanderson leaves out the fat from the other books in this series (he's still writing them).

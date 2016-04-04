@@ -90,4 +90,13 @@ Some things to note here:
 * *Kestrel* is a web server for ASP.NET Core and we launch it via the *web* command.
 * *dnx451* and *dnxcore50* are target frameworks. The shortforms are known as TFM (Target Framework Monikers) and a full list can be seen [here](http://docs.nuget.org/create/targetframeworks)
 
-This is a work in progress
+##Run the empty project using Kestrel
+Type the command below to download all the dependencies mentioned in the project.json file.
+
+        dnu restore
+
+It will run for a while and use NuGet to download DLLs targetting the framework mentioned in the project.json file. At the end it will show you a summary of where it downloaded the DLLs to and which NuGet feed it used to get them.
+        
+![Subfolders]({{ site.url }}/img/simpletranslator/dnu_restore_initial.png)
+
+Next, type *dnx web* to run the website using the in-built Kestrel web server.
