@@ -101,4 +101,74 @@ It will run for a while and use NuGet to download DLLs targetting the framework 
         
 ![Subfolders]({{ site.url }}/img/simpletranslator/dnu_restore_initial.png)
 
-Next, type *dnx web* to run the website using the in-built Kestrel web server.
+Next, type *dnx web* to run the website using the in-built Kestrel web server. You can navigate to the address given in the output of *dnx web* to see your website running. For me, it was http://localhost:5000:
+
+![Subfolders]({{ site.url }}/img/simpletranslator/localhost_5000.png)
+
+## Register for Microsoft Translator API
+Follow the steps [here](https://www.microsoft.com/en-us/translator/getstarted.aspx) to obtain a Client ID and Client Secret for Microsoft Translator API. We will be using the ID and secret to obtain an authentication token that is required to interact with Microsoft's Translation web service.
+
+You can translate up to 2,000,000 characters free per month.
+
+## Obtain an authentication token
+
+### Create a TranslateController
+
+First, we will isolate our translation code from the rest of the project code by creating a dedicated controller. Using your command prompt, navigate to the Controllers subdirectory and type:
+
+        yo aspnet:Class TranslateController
+        
+This is the Yeoman equivalent of *Add -> New Item...*. Once the command finishes running you will have a TranslateController.cs file with a skeleton class inside of it. Yeoman guesses at a namespace by looking at your directory structure, so for me it was *TranslatorTutorial.Controllers*.
+
+### Create authentication token classes
+*AdmAuthentication* and *AdmAccessToken* are two readymade classes available on MSDN that can be used to obtain an authentication token. The contents of the classes are not that important to our goal of learning ASP.net Core so I won't go into it.
+
+I did have to rework *AdmAuthentication* a bit because it used several portions of the .NET framework which are not a part of .NET Core.
+
+Run the command below in your Controllers subdirectory:
+
+        yo aspnet:Class AdmAuthentication
+
+Next, create a *Models* subdirectory. It should be on same level as *Controllers* so that when you run *tree .* the output will be as below:
+    
+        C:\NIKHIL\TRANSLATORTUTORIAL
+        ├───Controllers
+        ├───Models
+        ├───Views
+        │   ├───Home
+        │   └───Shared
+        └───wwwroot
+            ├───css
+            ├───images
+            └───js     
+            
+Navigate into the *Models* subdirectory and create a class *AdmAccessToken*:
+
+        yo aspnet:Class AdmAccessToken
+
+You can obtain the classes *here*. Copy the contents and place them into *Models\\AdmAccessToken.cs* and *Controllers\\AdmAuthentication.cs*.
+
+### Add package references
+
+The two new classes we added require a bunch of additional packages that are not a part of .NET Core in order to run. If you type *dnu build* without doing so you will get an error complaining about missing assembly references:
+
+![Subfolders]({{ site.url }}/img/simpletranslator/dnubuild_referror.png)
+
+To fix this, we need to update the *project.json* file to add the required libraries. Add the following lines inside *dependencies*:
+
+        "System.Threading.Timer": "4.0.1-beta-23516",
+        "System.Runtime.Serialization.Json": "4.0.1-beta-23516",
+        "System.Runtime.Serialization.Primitives": "4.0.10",
+        "System.Text.Encodings.Web": "4.0.0-beta-23516",
+        "System.Net.Http": "4.0.0"
+        
+Your JSON file will look like this:
+![Subfolders]({{ site.url }}/img/simpletranslator/project_json_newref.png)
+
+Attempt *dnu build* again and this time you will be greeted with the error *error NU1006: Dependencies
+in project.json were modified. Please run "dnu restore" to generate a new lock file.*
+
+This is a valuable lesson - every time you modify dependencies you need to run *dnu restore* in order to download any new DLLs that were added. Run these commands in sequence and the build should complete successfully:
+
+        dnu restore
+        dnu build
