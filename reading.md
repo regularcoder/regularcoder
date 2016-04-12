@@ -46,3 +46,15 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
    > This book has an excruciatingly slow first portion where nothing much happens. Just like the first book in this series, however, it gradually built up to a very exciting second-half.
    >
    > I hope Sanderson leaves out the fat from the other books in this series (he's still writing them).
+   
+7. Tender is the Night by F. Scott Fitzgerald (4.5/5) on [04-12-2016]
+
+   > Dick Diver is a promising young psychiatrist who moves to Europe and begins a slow and terrible decline when he marries a wealthy American woman who is recovering from schizophrenia.
+   >
+   > Book one in this novel is centered around Rosemary, a young actress touring with her mother, who meets Dick at a resort and falls in love with him. I found it an absolute drag to read. No amount of beautiful prose was able to elevate what are essentially humdrum events.
+   >
+   > The rest of the novel, starting from book two which is a flashback to when Dick first encounters his future wife Nicole, seemed very, very different to me in substance as well as style. If I had stopped reading at book one I would have rated this as a 2/5. If I had skipped book one and read the rest I would have rated it as 5/5.
+   >
+   > Here is a line I enjoyed: *These dead, he knew them all, their weather-beaten faces with blue flashing eyes, the spare violent bodies, the souls made of new earth in the forest-heavy darkness of the seventeenth century.*
+   >
+   > *"Good-by my father - good-by all my fathers"*
