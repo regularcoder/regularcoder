@@ -58,3 +58,11 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
    > Here is a line I enjoyed: *These dead, he knew them all, their weather-beaten faces with blue flashing eyes, the spare violent bodies, the souls made of new earth in the forest-heavy darkness of the seventeenth century.*
    >
    > *"Good-by my father - good-by all my fathers"*
+   
+8. The Hawk in the Rain by Ted Hughes (3.5/5) on [04-16-2016]
+
+   > I expected the poems in this collection to all be about animals but only a handful of them were. Instead, they cover a wide range of topics - war, religion, marriage, etc. My favorite poem was *The Jaguar* which ends:
+   >
+   > *His stride is wildernesses of freedom:   
+   > The world rolls under the long thrust of his heel.  
+   > Over the cage floor the horizons come.*
