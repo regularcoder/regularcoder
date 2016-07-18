@@ -6,6 +6,8 @@ categories: ASP.NET
 comments: true
 ---
 
+**This post is incomplete and will remain so - it has been abandoned**
+
 This tutorial will explain how to create an ASP.NET 5 website running on .NET Core. The translation will be performed using Microsoft's Translator Azure web service. At no point do I use Visual Studio - just command line tools and free editors. 
 
 Here is a preview of what the final product looks like:
@@ -14,9 +16,9 @@ Here is a preview of what the final product looks like:
 
 As much as I love Visual Studio I feel drawn towards lightweight alternatives since installing VS comes with a lot of extraneous stuff.
 
-##Install .NET Core from command line
+## Install .NET Core from command line
 
-###Install DNVM
+### Install DNVM
 DNVM is the .NET Version Manager - a command line tool that allows you to manage different .NET runtimes. Following the instructions [here](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html#install-asp-net-5-from-the-command-line) on Microsoft's ASP.net website run this command to install DNVM:
 
         @powershell -NoProfile -ExecutionPolicy unrestricted -Command "&{$Branch='dev';iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/aspnet/Home/dev/dnvminstall.ps1'))}
@@ -26,7 +28,7 @@ The command above will create a folder in your user profile (usually *C:\\Users\
 You should now be able to type *dnvm help* in your command prompt and see this:
 ![Subfolders]({{ site.url }}/img/simpletranslator/dnvm_help.png)
 
-###Install .NET Core
+### Install .NET Core
 .NET Core is a lean, mean, stripped-down version of the full .NET Framework. It is aimed primarily towards running ASP.NET 5 and a lot of functionality from the Base Class Libraries has been left out. If additional functionality is needed it has to be pulled in via packages.
 
 [This](https://docs.asp.net/en/latest/getting-started/choosing-the-right-dotnet.html) page has an excellent description of what .NET Core is:
@@ -49,9 +51,9 @@ DNX (.NET Execution environment) - You will use this primarily to build and run 
 
 Try typing *dnx* and *dnu*, they should both return output explaining their usage.
 
-##Create an ASP.NET Core project
+## Create an ASP.NET Core project
 
-###Install Yeoman for scaffolding
+### Install Yeoman for scaffolding
 Since we do not have Visual Studio to create project files and directory structure for us we need to use a 'scaffolding' tool called [Yeoman](http://yeoman.io/) to kickstart our new project.
 
 Yeoman has to be installed via [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/). If you don't have them already installed visit the [nodejs.org](https://nodejs.org/) website and install Node.js for Windows. The process is pretty straightforward and it will come with *npm* pre-installed.
@@ -92,7 +94,7 @@ Some things to note here:
 * *Kestrel* is a web server for ASP.NET Core and we launch it via the *web* command.
 * *dnx451* and *dnxcore50* are target frameworks. The shortforms are known as TFM (Target Framework Monikers) and a full list can be seen [here](http://docs.nuget.org/create/targetframeworks)
 
-##Run the empty project using Kestrel
+## Run the empty project using Kestrel
 Type the command below to download all the dependencies mentioned in the project.json file.
 
         dnu restore
