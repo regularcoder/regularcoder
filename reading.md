@@ -47,7 +47,7 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
    >
    > I hope Sanderson leaves out the fat from the other books in this series (he's still writing them).
    
-7. Tender is the Night by F. Scott Fitzgerald (4.5/5) on [04-12-2016]
+8. Tender is the Night by F. Scott Fitzgerald (4.5/5) on [04-12-2016]
 
    > Dick Diver is a promising young psychiatrist who moves to Europe and begins a slow and terrible decline when he marries a wealthy American woman who is recovering from schizophrenia.
    >
@@ -59,10 +59,14 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
    >
    > *"Good-by my father - good-by all my fathers"*
    
-8. The Hawk in the Rain by Ted Hughes (3.5/5) on [04-16-2016]
+9. The Hawk in the Rain by Ted Hughes (3.5/5) on [04-16-2016]
 
    > I expected the poems in this collection to all be about animals but only a handful of them were. Instead, they cover a wide range of topics - war, religion, marriage, etc. My favorite poem was *The Jaguar* which ends:
    >
    > *His stride is wildernesses of freedom:   
    > The world rolls under the long thrust of his heel.  
    > Over the cage floor the horizons come.*
+
+10. Nip the Buds, Shoot the Kids by Kenzaburo Oe (3/5) on [07-30-2016]
+
+    > While an interesting book about boarding school boys in wartime Japan, I didn't enjoy it as much as *A Personal Matter*.
