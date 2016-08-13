@@ -70,3 +70,9 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
 10. Nip the Buds, Shoot the Kids by Kenzaburo Oe (3/5) on [07-30-2016]
 
     > While an interesting book about boarding school boys in wartime Japan, I didn't enjoy it as much as *A Personal Matter*.
+
+11. Rising Sun by Michael Crichton (3/5) on [08-13-2016]
+
+    > This isn't the most thrilling murder-mystery I've read but it was an interesting and seemingly accurate depiction of Japanese culture. Shortly before starting this book I had given up reading James Clavell's *Noble House* which has a relatively crude and ridiculous take on the Chinese people - so Crichton's nuanced take on the Japanese people was refreshing.
+    >
+    > Crichton makes no secret of the fact that he disapproves of Japanese economic influence in America - he accuses them of price-fixing, illegally increasing market share by dumping products, etc.
