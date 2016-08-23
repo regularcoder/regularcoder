@@ -13,7 +13,7 @@ This tutorial will explain how to create an ASP.NET 5 website running on .NET Co
 Here is a preview of what the final product looks like:
 
 ![Subfolders]({{ site.url }}/img/simpletranslator/hi_to_en.png)
-
+<!--more-->
 As much as I love Visual Studio I feel drawn towards lightweight alternatives since installing VS comes with a lot of extraneous stuff.
 
 ## Install .NET Core from command line
