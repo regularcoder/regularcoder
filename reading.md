@@ -76,3 +76,9 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
     > This isn't the most thrilling murder-mystery I've read but it was an interesting and seemingly accurate depiction of Japanese culture. Shortly before starting this book I had given up reading James Clavell's *Noble House* which has a relatively crude and ridiculous take on the Chinese people - so Crichton's nuanced take on the Japanese people was refreshing.
     >
     > Crichton makes no secret of the fact that he disapproves of Japanese economic influence in America - he accuses them of price-fixing, illegally increasing market share by dumping products, etc.
+
+12. The Tombs of Atuan (EarthSea Cycle #2) by Ursula K. Le Guin (3/5) on [08-24-2016]
+
+    > This is a short, easy book where not much happens. It isn't bad per se but it felt like I was reading filler material that was just setting the stage for bigger events to come in the *EarthSea* series.
+    >
+    > Interestingly, in the afterword Le Guin says that she wasn't planning a series originally and when she wrote *The Tombs of Atuan* it was meant as a sequel and nothing more.
