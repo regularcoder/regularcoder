@@ -82,3 +82,9 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
     > This is a short, easy book where not much happens. It isn't bad per se but it felt like I was reading filler material that was just setting the stage for bigger events to come in the *EarthSea* series.
     >
     > Interestingly, in the afterword Le Guin says that she wasn't planning a series originally and when she wrote *The Tombs of Atuan* it was meant as a sequel and nothing more.
+
+13. Under the Banner of Heaven by Jon Krakauer (4/5) on [10-01-2016]
+
+    > Prior to reading this book my only exposure to Mormonism had been watching HBO's *Big Love*, a show about polygamist Mormons. So it was fascinating to read about how a major religion arose, as Krakauer puts it, in the brightly lit age of the affidavit and the printing press.
+    >
+    > The book covers a lot of ground but it mostly focuses on Ron and Dan Lafferty - two fundamentalist Mormons who brutally murdered their sister-in-law and her infant daughter in order to fulfill a "revelation" from god.
