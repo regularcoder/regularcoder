@@ -88,3 +88,9 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
     > Prior to reading this book my only exposure to Mormonism had been watching HBO's *Big Love*, a show about polygamist Mormons. So it was fascinating to read about how a major religion arose, as Krakauer puts it, in the brightly lit age of the affidavit and the printing press.
     >
     > The book covers a lot of ground but it mostly focuses on Ron and Dan Lafferty - two fundamentalist Mormons who brutally murdered their sister-in-law and her infant daughter in order to fulfill a "revelation" from god.
+
+14. The Blood Gospel by James Rollins and Rebecca Cantrell (4.5/5) on [10-09-2016]
+
+    > I heard about this book when I saw a colleague walking to work and reading this book at the same time. I asked him for the name and once I checked it out of the library I found that it was as exciting as I had hoped.
+    >
+    > It is also very inventive blasphemy of Catholic theology.
