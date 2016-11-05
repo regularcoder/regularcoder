@@ -94,3 +94,13 @@ Kenzaburo Oe, [The Art of Fiction No. 195](http://www.theparisreview.org/intervi
     > I heard about this book when I saw a colleague walking to work and reading this book at the same time. I asked him for the name and once I checked it out of the library I found that it was as exciting as I had hoped.
     >
     > It is also very inventive blasphemy of Catholic theology.
+
+15. Babbitt by Sinclair Lewis (5/5) on [10-31-2016]
+
+    > This is a beautiful and articulate satire of an American middle-class man. To me this seemed like a staid predecessor of Joseph Heller's *Something Happened* - a book that was published more than fifty years after *Babbitt*. Both books center on the inner life of average men leading average lives in average America.
+    >
+    > Through most of the book Babbitt is an unthinking conformist - sometimes to the point of comical hypocrisy when he rails against unions:
+    > 
+    > *All labor agitators who try to force men to join a union should be hanged.....every business man ought to belong to an employers'-association and to the Chamer of Commerce. In union there is strength. So any selfish hog who doesn't join the Chamber of Commerce ought to be forced to.*
+    > 
+    > At the end of the book although Babbitt hasn't really rebelled against society he manages to maintain his self respect and independence in a very satisfying ending.
