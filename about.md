@@ -7,6 +7,6 @@ title: About
   Hey there!
 </p>
 
-I work as a .net developer for an IT company.
+I'm a software developer who likes to read and sometimes write.
 
 Thanks for reading!
