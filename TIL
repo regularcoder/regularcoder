@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+date: 2017-07-20T15:00:00.000Z
+categories: TIL
 ---
 Here are a few things I learned about ES2015/ES6:
 
