@@ -11,7 +11,7 @@ relative_permalinks: false
 title:               regularcoder
 tagline:             'A rising tide lifts all boats'
 description:         'A blog on programming, reading, writing and traveling'
-url:                 http://regularcoder.github.io
+url:                 http://regularcoder.github.io/
 baseurl:             /
 paginate:            10
 excerpt_separator:   <!--more-->
